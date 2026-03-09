@@ -12,8 +12,6 @@ Both `data` and `scripts` are split into `satellite` (the MODIS data set and and
 │   └── simulated_1D
 │       ├── 1D_test_1.csv
 │       └── 1D_train_1.csv
-├── LICENSE
-├── README.md
 └── scripts
     ├── satellite
     │   ├── inla.R
